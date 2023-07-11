@@ -1,0 +1,11 @@
+.downloads {
+    width: 1440px;
+    height: 554px;   
+    display: flex;
+    
+    align-items: center;
+}
+.appstore {
+    margin-top: 26px;
+    
+}

@@ -1,0 +1,87 @@
+.pricing {
+  width: 1440px;
+  height: 702px;
+}
+.pricing-conteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  width: 1200px;
+  height: 502px;
+  margin-left: 120px;
+}
+.pricing-plans {
+  display: flex;
+  justify-content: center;
+  width: 1200px;
+  height: 502px;
+}
+.pricing-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  margin-top: 40px;
+  width: 379px;
+  height: 338px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #f2f2f2;
+}
+.pricing-block,
+one two {
+  margin-right: 16px;
+}
+.pricing-name {
+    color: #0278ED;
+text-align: center;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+.pricing-price {
+    color: #0278ED;
+text-align: center;
+
+font-size: 108px;
+font-style: normal;
+font-weight: 400;
+line-height: 124px;
+letter-spacing: 8px;
+}
+.pricing-period {
+    color: #222;
+text-align: center;
+margin-top: 25px;
+margin-bottom: 20px;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+.pricing-button {
+    color: #f2f2f2;
+    width: 129px;
+height: 40px;
+flex-shrink: 0;
+border-radius: 4px;
+background: #0278ED;
+}
+.pricing-name_two, .pricing-price_two {
+    color: #FF5437;
+}
+.pricing-button_two {
+    background-color: #FF5437;
+}
+.pricing-name_three, .pricing-price_three {
+    color: #FF9209;
+}
+.pricing-button_three {
+    background-color: #FF9209;
+}

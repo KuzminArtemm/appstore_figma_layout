@@ -1,0 +1,20 @@
+.testimonials {
+  width: 1440px;
+  height: 554px;
+  background: #f2f2f2;
+}
+.testimonials-block {
+    padding: 30px;
+  width: 379px;
+  height: 224px;
+  border-radius: 20px;
+  background: #fff;
+}
+.testimonials-block,
+one two {
+  margin-right: 16px;
+}
+.block-inner {
+    display: flex;
+    margin-top: 22px;
+}
